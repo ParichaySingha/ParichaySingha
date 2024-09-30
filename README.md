@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MySQL, DBMS, Core Java, Oops, Web Development, Data Structure & Algorithm etc.**
 
-- 📫 How to reach me **mr.parichaysingha84532@gmail.com**
+- 📫 How to reach me **parichaysingha84532@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny**
 
