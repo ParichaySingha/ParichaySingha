@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parichay singha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parichay singha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parichay-singha-ba2a66194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parichay singha" height="30" width="40" /></a>
 <a href="https://fb.com/parichay singha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parichay singha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/parichay_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parichay_123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/parichay singha @parichaysingha81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parichay singha @parichaysingha81" height="30" width="40" /></a>
