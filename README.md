@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parichaysingha&label=Profile%20views&color=0e75b6&style=flat" alt="parichaysingha" /> </p>
 
-- 🔭 I’m currently working on **Banking Management System**
+- 🔭 I’m currently working on **Email Writer Assistant With Chrome Extensions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ParichaySingha](https://github.com/ParichaySingha)
 
