@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ParichaySingha](https://github.com/ParichaySingha)
 
-- 💬 Ask me about **MySQL, DBMS, Core Java, Oops, Web Development, Data Structure & Algorithm etc.**
+- 💬 Ask me about **MySQL, DBMS, Core Java, Spring Boot framework, Oops, Web Development, Data Structure & Algorithm, and Hostinger etc.**
 
 - 📫 How to reach me **parichaysingha84532@gmail.com**
 
