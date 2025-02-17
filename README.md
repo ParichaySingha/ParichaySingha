@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parichay Singha</h1>
-<h3 align="center">A passionate software engineering or developer from India</h3>
+<h3 align="centre">A passionate software engineer I have Development skills that I aim to utilize for both personal and organizational growth. I prefer to develop a strategy before implementing any
+ plan. As a fast learner, I believe in the importance of hard work when directed toward the right goals. I am looking for an engaging career where I
+ can apply my skill set effectively. I possess technical skills, knowledge of software products, software development tools, and data analytics
+ expertise. </h3>
 <img align="right" alt="coding" width="400" src="https://github.com/ParichaySingha/Parichay-Singha/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parichaysingha&label=Profile%20views&color=0e75b6&style=flat" alt="parichaysingha" /> </p>
